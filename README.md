@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World 💻
+
+I am Konstantinos Koukos, a greek Computer Science major at the Aristotle University of Thessaloniki. I have been passionate about programming since 2020 and I am always eager to learn more!
+My interests are Web Dev, theoretic CS (Data Structures & Algorithms, Math, etc) and I recently started getting into Microcontroller/Embedded.
+I am currently trying to re-learn Computer Science concepts like networking and low-level architecture from the ground up to get a deeper understanding of computers in general.
 
 <!--
 **kostaskoukos/kostaskoukos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
